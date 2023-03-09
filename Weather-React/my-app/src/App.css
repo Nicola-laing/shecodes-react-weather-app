@@ -1,0 +1,30 @@
+.app-container{
+  text-align: center;
+  padding: 50px;
+  color: white;
+  letter-spacing: 0.2rem;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  margin: 50px auto;
+  border-radius: 20px;
+  inline-size: 600px;
+  background: linear-gradient(
+    163deg,
+    rgb(31, 167, 208) 0%,
+    rgb(102, 241, 205) 100%
+  );
+  min-block-size: 300px;
+  min-inline-size: 600px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+
+.App-link {
+  color: #61dafb;
+}
+h1 {
+  text-align: center;
+}
